@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "id": "pt1",
+      "question": "What is the primary purpose of a penetration test?",
+      "options": [
+        "To fix all vulnerabilities",
+        "To identify and exploit vulnerabilities in a controlled manner",
+        "To install security software",
+        "To train employees"
+      ],
+      "answer": 1,
+      "category": "CompTIA",
+      "module": "PenTest+"
+    },
+    {
+      "id": "pt2",
+      "question": "Which phase comes first in a penetration testing methodology?",
+      "options": [
+        "Exploitation",
+        "Reporting",
+        "Planning and Reconnaissance",
+        "Post-Exploitation"
+      ],
+      "answer": 2,
+      "category": "CompTIA",
+      "module": "PenTest+"
+    },
+    {
+      "id": "pt3",
+      "question": "What tool is commonly used for network scanning?",
+      "options": [
+        "Wireshark",
+        "Nmap",
+        "Metasploit",
+        "John the Ripper"
+      ],
+      "answer": 1,
+      "category": "CompTIA",
+      "module": "PenTest+"
+    },
+    {
+      "id": "pt4",
+      "question": "What does OSINT stand for?",
+      "options": [
+        "Operating System Intelligence",
+        "Open Source Intelligence",
+        "Online Security Internet",
+        "Organized Security Interface"
+      ],
+      "answer": 1,
+      "category": "CompTIA",
+      "module": "PenTest+"
+    },
+    {
+      "id": "pt5",
+      "question": "Which of the following is a social engineering attack?",
+      "options": [
+        "SQL Injection",
+        "Buffer Overflow",
+        "Phishing",
+        "XSS Attack"
+      ],
+      "answer": 2,
+      "category": "CompTIA",
+      "module": "PenTest+"
+    },
+    {
+      "id": "ccna1",
+      "question": "What is the default administrative distance of OSPF?",
+      "options": [
+        "90",
+        "100",
+        "110",
+        "120"
+      ],
+      "answer": 2,
+      "category": "Cisco",
+      "module": "CCNA"
+    },
+    {
+      "id": "ccna2",
+      "question": "Which layer of the OSI model does a switch operate at?",
+      "options": [
+        "Layer 1 - Physical",
+        "Layer 2 - Data Link",
+        "Layer 3 - Network",
+        "Layer 4 - Transport"
+      ],
+      "answer": 1,
+      "category": "Cisco",
+      "module": "CCNA"
+    },
+    {
+      "id": "ccna3",
+      "question": "What is the maximum number of usable hosts in a /26 subnet?",
+      "options": [
+        "30",
+        "62",
+        "126",
+        "254"
+      ],
+      "answer": 1,
+      "category": "Cisco",
+      "module": "CCNA"
+    },
+    {
+      "id": "ccna4",
+      "question": "Which protocol is used by ping?",
+      "options": [
+        "TCP",
+        "UDP",
+        "ICMP",
+        "ARP"
+      ],
+      "answer": 2,
+      "category": "Cisco",
+      "module": "CCNA"
+    },
+    {
+      "id": "ccna5",
+      "question": "What does STP stand for?",
+      "options": [
+        "Simple Transfer Protocol",
+        "Spanning Tree Protocol",
+        "Secure Transmission Protocol",
+        "Switch Transport Protocol"
+      ],
+      "answer": 1,
+      "category": "Cisco",
+      "module": "CCNA"
+    }
+  ]
+}
